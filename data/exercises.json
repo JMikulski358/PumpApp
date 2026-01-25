@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pompki (Regular grip)",
+    "description": "Aby wykonać poprawną pompkę, przyjmij pozycję podporu przodem: dłonie ustaw na szerokość barków lub minimalnie szerzej, palce skieruj lekko na zewnątrz, a stopy trzymaj razem lub delikatnie rozstawione. Całe ciało powinno tworzyć prostą linię od głowy aż po pięty. Napnij mięśnie brzucha i pośladki, a głowę ustaw neutralnie, patrząc lekko przed siebie. Następnie powoli uginaj łokcie, prowadząc je pod kątem około 30–45 stopni względem tułowia, i opuszczaj ciało w dół, aż klatka piersiowa znajdzie się blisko podłogi. Plecy przez cały ruch pozostają proste, a biodra nie opadają ani nie unoszą się. Z dolnej pozycji wykonaj wydech i dynamicznie, ale kontrolowanie, odepchnij się od podłogi, prostując ramiona i unosząc całe ciało jako jedną całość, bez blokowania łokci w górze. W trakcie opuszczania wykonuj wdech, a w trakcie wypychania wydech. Ruch powinien być pełny i płynny, najlepiej wykonywany w kontrolowanym tempie, z naciskiem na poprawną technikę zamiast liczby powtórzeń.",
+    "muscles": "Chest",
+    "type": "bodyweight"
+  },
+  {
+    "name": "Przysiady",
+    "description": "Aby wykonać poprawny przysiad ze sztangą, ustaw się stabilnie na szerokość barków lub nieco szerzej, z palcami stóp skierowanymi lekko na zewnątrz. Sztangę ułóż na górnej części pleców (na mięśniach czworobocznych w wersji high bar lub nieco niżej na tylnej części barków w wersji low bar), chwyć ją pewnie dłońmi i ściągnij łopatki, tworząc stabilną „półkę” pod gryf. Przed rozpoczęciem ruchu napnij mięśnie brzucha i pośladki, nabierz powietrza do brzucha i usztywnij tułów. Następnie rozpocznij ruch cofając biodra i jednocześnie uginając kolana, prowadząc je w linii z palcami stóp, aż uda znajdą się co najmniej równolegle do podłoża. W trakcie schodzenia plecy pozostają proste, klatka piersiowa uniesiona, a ciężar ciała rozłożony równomiernie na całych stopach. Z dolnej pozycji, przy zachowaniu napięcia mięśniowego, wypchnij się w górę, prostując biodra i kolana jednocześnie, aż do pozycji wyjściowej, wykonując wydech w końcowej fazie ruchu. Przez cały czas trwania ćwiczenia kontroluj tor ruchu, stabilność kolan i napięcie tułowia, dbając o płynność i pełny zakres ruchu.",
+    "muscles": "Quads",
+    "type": "weighted"
+  },
+  {
+    "name": "Uginanie przedramion ze sztangą (prostą)",
+    "description": "Aby wykonać poprawne uginanie ramion ze sztangą prostą, stań w lekkim rozkroku na szerokość bioder, ustawiając stopy stabilnie na podłożu. Chwyć sztangę nachwytem podchwytem na szerokość barków, dłonie ustaw symetrycznie, a kciuki obejmujące gryf. Ramiona opuść wzdłuż tułowia, łokcie trzymaj blisko ciała, a barki cofnięte i opuszczone. Przed rozpoczęciem ruchu napnij mięśnie brzucha i pośladki, aby ustabilizować sylwetkę. Następnie, wykonując wydech, uginaj ramiona w stawach łokciowych, unosząc sztangę po kontrolowanym torze w górę, bez bujania tułowiem i bez unoszenia łokci do przodu. Ruch powinien odbywać się wyłącznie w stawach łokciowych, a nadgarstki pozostają w neutralnej pozycji. W górnej fazie ruchu maksymalnie napnij mięśnie bicepsów, po czym wykonując wdech, powoli i kontrolowanie opuszczaj sztangę do pełnego wyprostu ramion, nie tracąc napięcia mięśniowego. Całe ćwiczenie wykonuj płynnie, w pełnym zakresie ruchu, z naciskiem na technikę i świadomą pracę mięśni, a nie na ciężar.",
+    "muscles": "Biceps",
+    "type": "weighted"
+  }
+]

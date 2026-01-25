@@ -1,0 +1,41 @@
+# Build folders
+build/
+build-*/
+cmake-build-*/
+
+# Qt autogen
+*_autogen/
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Qt Creator files
+*.pro.user
+*.autosave
+CMakeLists.txt.user
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*~
+
+# Data files (opcjonalnie - możesz zostawić przykładowe dane)
+# data/*.json
+
+# Test files generated
+test_*.json

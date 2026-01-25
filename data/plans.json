@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Push",
+    "entries": [
+      {
+        "exerciseName": "Pompki (Regular grip)",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0,
+        "restTime": 90
+      }
+    ]
+  },
+  {
+    "name": "Pull",
+    "entries": [
+      {
+        "exerciseName": "Uginanie przedramion ze sztangą (prostą)",
+        "sets": 4,
+        "reps": 10,
+        "weight": 40,
+        "restTime": 120
+      }
+    ]
+  }
+]
