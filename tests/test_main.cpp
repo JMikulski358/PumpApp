@@ -1,6 +1,6 @@
 // test_main.cpp
 // Lokalizacja: tests/test_main.cpp
-// Autor: Jakub Krzysztof Mikulski
+// Autor: Jakub Krzysztof Mikulski (z pomocą Claude.ai)
 // Opis: Testy jednostkowe dla projektu PumpApp (Google Test)
 
 #include <gtest/gtest.h>
