@@ -43,9 +43,9 @@ private slots:
 
 private:
     Ui::WorkoutPlanDialog *ui;
-    std::shared_ptr<WorkoutPlan> plan;
-    DatabaseManager* db;
-    bool editMode;
+    std::shared_ptr<WorkoutPlan> plan = nullptr;
+    DatabaseManager* db = nullptr;
+    bool editMode = false;
 
     void setupUI();
     void loadAvailableExercises();

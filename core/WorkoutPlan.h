@@ -13,11 +13,11 @@
 // Struktura reprezentująca pojedynczy wpis w planie treningowym
 // Łączy ćwiczenie z parametrami treningowymi (serie, powtórzenia, etc.)
 struct PlanEntry {
-    std::shared_ptr<Exercise> exercise;  // Wskaźnik do ćwiczenia
-    int sets;                            // Liczba serii
-    int reps;                            // Liczba powtórzeń w serii
-    double weight;                       // Ciężar (kg), 0 dla bodyweight
-    int restTime;                        // Czas odpoczynku między seriami (sekundy)
+    std::shared_ptr<Exercise> exercise = nullptr;  // Wskaźnik do ćwiczenia
+    int sets = 0;                            // Liczba serii
+    int reps = 0;                            // Liczba powtórzeń w serii
+    double weight = 0.0;                       // Ciężar (kg), 0 dla bodyweight
+    int restTime = 0;                        // Czas odpoczynku między seriami (sekundy)
 
     // Konstruktor
     PlanEntry(std::shared_ptr<Exercise> ex,

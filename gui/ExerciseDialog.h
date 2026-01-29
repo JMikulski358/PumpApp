@@ -39,8 +39,8 @@ private slots:
 
 private:
     Ui::ExerciseDialog *ui;
-    std::shared_ptr<Exercise> exercise;
-    bool editMode;
+    std::shared_ptr<Exercise> exercise = nullptr;
+    bool editMode = false;
 
     void setupUI();
     void loadExerciseData();
